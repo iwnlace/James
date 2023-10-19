@@ -1,0 +1,20 @@
+.nav-pills li a:hover {
+    background-color: #3D0000;
+}
+body {
+    background-color: #17223B;
+}
+.btn:hover {
+    background-color: aqua;
+    transition: 0.5s;
+
+}
+.btn:hover .dropdown-menu {
+    display: block;
+}
+.dropdown {
+    margin-top: 525px;
+    display: flex;
+    text-decoration:none ;
+    align-items:center;
+}
